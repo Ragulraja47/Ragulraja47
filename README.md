@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ragul Raja</h1>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Complaint Management System<br><br>🌱 I’m currently learning MERN Stack<br><br>📫 How to reach me cragulraja2004@gmail.com<br><br>Driven Full-Stack Developer with a strong foundation in Java programming, passionate about building user-friendly websites.<br>Eager to leverage comprehensive Full-Stack development skills to tackle challenging opportunities and deliver innovative, impactful solutions.
 
 
